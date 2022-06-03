@@ -16,7 +16,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pikpng.com/pngl/m/524-5240809_aws-logo-svg-white-clipart.png" alt="aws" width="40" height="40"/> </a> 
+    <img src="https://image.pngaaa.com/401/3822401-middle.png" alt="aws" width="40" height="40"/> </a> 
 
 </p>
 
