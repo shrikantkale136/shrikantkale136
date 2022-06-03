@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Shrikant</h1>
+### 💻 Welcome my github profile 
+<h1 align="center">Hi 👋, I'm Shrikant 😎</h1>
 <h3 align="center">A developer who helps other developers</h3>
 
 <h3 align="left">Languages and Tools:</h3>
